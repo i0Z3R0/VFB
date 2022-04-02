@@ -1,0 +1,950 @@
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **231** fish for you.
+Embed 2:
+Title: You caught:
+Description: 25 <:fb_codraw:624818950223691776> Cod
+5 <:fb_tropicalfish:624819075268345886> Tropical Fish
+You found a common chest <:fb_chest:625008684786909224>
+You got **106 XP** from the chest.
++235 XP
+Global boost by **Matt0040#6669**!
+
+
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **231** fish for you.
+
+
+Title: Embed.Empty
+Description: You must wait **1.9** seconds before fishing again.
+Your cooldown: **2.4** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.3** seconds before fishing again.
+Your cooldown: **2.4** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.2** seconds before fishing again.
+Your cooldown: **2.4** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.3** seconds before fishing again.
+Your cooldown: **2.4** seconds.
+
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Thank you for your vote.
+Description: You received:
+1x **Personal Booster** (fuse personal).
+1x **Voting Crate**.
+You got 12 Emerald Fish from the chest! <:fb_emeraldfish:625462358411837441>
+Embed 2:
+Title: You caught:
+Description: 27 <:fb_codraw:624818950223691776> Cod
+3 <:fb_tropicalfish:624819075268345886> Tropical Fish
+You found an uncommon chest <:chest_uncommon:708057306507771954>
+You got 3 Gold Fish from the chest! <:fb_goldfish:625461158475726861>
++127 XP
+Global boost by **maylehcar#0267**!
+
+
+Title: Thank you for your vote.
+Description: You received:
+1x **Personal Booster** (fuse personal).
+1x **Voting Crate**.
+You got 12 Emerald Fish from the chest! <:fb_emeraldfish:625462358411837441>
+
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Help support Virtual Fisher's development
+Description: Virtual Fisher is accepting donations to support its continued development, you will also receive perks such as the supporter rod and global boosters.
+Learn more with **fdonate**
+Link: https://virtualfisher.com/donate
+Embed 2:
+Title: You caught:
+Description: 21 <:fb_tropicalfish:624819075268345886> Tropical Fish
+13 <:fb_pufferfish:624819105417003028> Pufferfish
++412 XP
+Global boost by **ßabygurl#2270**!
+
+
+Title: Help support Virtual Fisher's development
+Description: Virtual Fisher is accepting donations to support its continued development, you will also receive perks such as the supporter rod and global boosters.
+Learn more with **fdonate**
+Link: https://virtualfisher.com/donate
+
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Thank you for your vote.
+Description: You received:
+1x **Personal Booster** (fuse personal).
+1x **Voting Crate**.
+You got 12 Gold Fish from the chest! <:fb_goldfish:625461158475726861>
+Embed 2:
+Title: You caught:
+Description: 23 <:fb_tropicalfish:624819075268345886> Tropical Fish
+7 <:fb_pufferfish:624819105417003028> Pufferfish
++343 XP
+Global boost by **RazerPlayz#3512**!
+
+
+Title: Thank you for your vote.
+Description: You received:
+1x **Personal Booster** (fuse personal).
+1x **Voting Crate**.
+You got 12 Gold Fish from the chest! <:fb_goldfish:625461158475726861>
+
+
+Title: =-=-=-= Help =-=-=-=-=-
+Description: Embed.Empty
+
+
+Title: Timer Has Been Requested By **||ٴٴٴٴٴٴ0Z3R0**ٴٴٴٴٴٴ||** For
+Description: 600000 milliseconds
+
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: Your worker has stopped working. He caught a total of **291** fish for you.
+Embed 2:
+Title: You caught:
+Description: 21 <:fb_tropicalfish:624819075268345886> Tropical Fish
+9 <:fb_pufferfish:624819105417003028> Pufferfish
++402 XP
+Global boost by **Teseractime#8167**!
+
+<:fb_fishraw:624818450090557460> **LEVEL UP!** <:fb_fishraw:624818450090557460> You are now level 74.
+$118,000 received for leveling up.
+
+
+Title: Embed.Empty
+Description: Your worker has stopped working. He caught a total of **291** fish for you.
+
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Help support Virtual Fisher's development
+Description: Virtual Fisher is accepting donations to support its continued development, you will also receive perks such as the supporter rod and global boosters.
+Learn more with **fdonate**
+Link: https://virtualfisher.com/donate
+Embed 2:
+Title: You caught:
+Description: 16 <:fb_tropicalfish:624819075268345886> Tropical Fish
+8 <:fb_pufferfish:624819105417003028> Pufferfish
++333 XP
+Global boost by **Teseractime#8167**!
+
+
+Title: Help support Virtual Fisher's development
+Description: Virtual Fisher is accepting donations to support its continued development, you will also receive perks such as the supporter rod and global boosters.
+Learn more with **fdonate**
+Link: https://virtualfisher.com/donate
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.8** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.8** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **1.0** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+Title: Embed.Empty
+Description: You must wait **0.9** seconds before fishing again.
+Your cooldown: **2.1** seconds.
+
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **1531** fish for you.
+Embed 2:
+Title: You caught:
+Description: 31 <:fb_pufferfish:624819105417003028> Pufferfish
++716 XP
+Global boost by **Teseractime#8167**!
+
+<:fb_fishraw:624818450090557460> **LEVEL UP!** <:fb_fishraw:624818450090557460> You are now level 83.
+$264,000 received for leveling up **2** times.
+
+
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **1531** fish for you.
+
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **1208** fish for you.
+Embed 2:
+Title: You caught:
+Description: 34 <:fb_pufferfish:624819105417003028> Pufferfish
++785 XP
+Global boost by **s̸̒̽ṁ̶̎o̷̊̚o̷̓͐ṑ̶#1111**!
+
+<:fb_fishraw:624818450090557460> **LEVEL UP!** <:fb_fishraw:624818450090557460> You are now level 84.
+$134,000 received for leveling up.
+
+**QUEST COMPLETE**!
+**Daily Level-ups Tier 1**
+Reward:
++**$37,000**
+1x uncommon chest <:chest_uncommon:708057306507771954>
+You got **1,578 XP** from the chest.
+
+
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **1208** fish for you.
+
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: :chart_with_upwards_trend: Reminder: Vote with **fvote** for rewards!
+Embed 2:
+Title: You caught:
+Description: 43 <:fb_pufferfish:624819105417003028> Pufferfish
++993 XP
+Global boost by **s̸̒̽ṁ̶̎o̷̊̚o̷̓͐ṑ̶#1111**!
+
+
+Title: Embed.Empty
+Description: :chart_with_upwards_trend: Reminder: Vote with **fvote** for rewards!
+
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: Your worker has stopped working. He caught a total of **1541** fish for you.
+Embed 2:
+Title: You caught:
+Description: 53 <:fb_pufferfish:624819105417003028> Pufferfish
++1,224 XP
+Global boost by **s̸̒̽ṁ̶̎o̷̊̚o̷̓͐ṑ̶#1111**!
+
+<:fb_fishraw:624818450090557460> **LEVEL UP!** <:fb_fishraw:624818450090557460> You are now level 93.
+$296,000 received for leveling up **2** times.
+
+
+Title: Embed.Empty
+Description: Your worker has stopped working. He caught a total of **1541** fish for you.
+
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **530** fish for you.
+Embed 2:
+Title: You caught:
+Description: 10 <:fb_tropicalfish:624819075268345886> Tropical Fish
+56 <:fb_pufferfish:624819105417003028> Pufferfish
++1,584 XP
+Global boost by **RindaRoo#1313**!
+
+
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **530** fish for you.
+
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Help support Virtual Fisher's development
+Description: Virtual Fisher is accepting donations to support its continued development, you will also receive perks such as the supporter rod and global boosters.
+Learn more with **fdonate**
+Link: https://virtualfisher.com/donate
+Embed 2:
+Title: You caught:
+Description: 9 <:fb_tropicalfish:624819075268345886> Tropical Fish
+31 <:fb_pufferfish:624819105417003028> Pufferfish
++913 XP
+Global boost by **RindaRoo#1313**!
+
+
+Title: Help support Virtual Fisher's development
+Description: Virtual Fisher is accepting donations to support its continued development, you will also receive perks such as the supporter rod and global boosters.
+Learn more with **fdonate**
+Link: https://virtualfisher.com/donate
+
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **1476** fish for you.
+Embed 2:
+Title: You caught:
+Description: 3 <:fb_tropicalfish:624819075268345886> Tropical Fish
+46 <:fb_pufferfish:624819105417003028> Pufferfish
++1,350 XP
+Global boost by **NFTMann#4468**!
+
+<:fb_fishraw:624818450090557460> **LEVEL UP!** <:fb_fishraw:624818450090557460> You are now level 113.
+$723,000 received for leveling up.
+
+
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **1476** fish for you.
+
+
+Title: Embed.Empty
+Description: :white_check_mark: You sold your entire inventory for **$8,247,805**.
+You now have **$17,552,226**!
+
+
+Title: Embed.Empty
+Description: [Log Link](http://battle.owobot.com/battle-log/b28d4843-25d7-4e37-8c0d-e2c227fb6da7)
+
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Help support Virtual Fisher's development
+Description: Virtual Fisher is accepting donations to support its continued development, you will also receive perks such as the supporter rod and global boosters.
+Learn more with **fdonate**
+Link: https://virtualfisher.com/donate
+Embed 2:
+Title: You caught:
+Description: 7 <:fb_tropicalfish:624819075268345886> Tropical Fish
+56 <:fb_pufferfish:624819105417003028> Pufferfish
++1,682 XP
+Global boost by **°. Nami ♡⸝⸝#0001**!
+
+
+Title: Help support Virtual Fisher's development
+Description: Virtual Fisher is accepting donations to support its continued development, you will also receive perks such as the supporter rod and global boosters.
+Learn more with **fdonate**
+Link: https://virtualfisher.com/donate
+
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: Your worker has stopped working. He caught a total of **174** fish for you.
+Embed 2:
+Title: You caught:
+Description: 12 <:fb_pufferfish:624819105417003028> Pufferfish
+1 <:fb_squid:628005803072290816> Squid
+1 <:fb_turtle:628429477793366037> Turtle
++1,046 XP
+Global boost by **UnusualTactics#1985**!
+
+
+Title: Embed.Empty
+Description: Your worker has stopped working. He caught a total of **174** fish for you.
+
+
+Title: Embed.Empty
+Description: :white_check_mark: You sold your entire inventory for **$5,781,677**.
+You now have **$18,578,075**!
+
+
+Title: Embed.Empty
+Description: :white_check_mark: You sold your entire inventory for **$1,112,095**.
+You now have **$23,223,507**!
+
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: :chart_with_upwards_trend: Reminder: Vote with **fvote** for rewards!
+Embed 2:
+Title: You caught:
+Description: 12 <:fb_pufferfish:624819105417003028> Pufferfish
+4 <:fb_squid:628005803072290816> Squid
++1,248 XP
+Global boost by **BAGGZY#2760**!
+
+
+Title: Embed.Empty
+Description: :chart_with_upwards_trend: Reminder: Vote with **fvote** for rewards!
+
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **190** fish for you.
+Embed 2:
+Title: You caught:
+Description: 8 <:fb_pufferfish:624819105417003028> Pufferfish
+3 <:fb_squid:628005803072290816> Squid
+2 <:fb_turtle:628429477793366037> Turtle
++1,903 XP
+Global boost by **BAGGZY#2760**!
+
+<:fb_fishraw:624818450090557460> **LEVEL UP!** <:fb_fishraw:624818450090557460> You are now level 135.
+$864,000 received for leveling up.
+
+**QUEST COMPLETE**!
+**Daily Level-ups Tier 1**
+Reward:
++**$56,000**
+1x rare chest <:chest_rare:708049302131441727>
+You got 4 Emerald Fish from the chest! <:fb_emeraldfish:625462358411837441>
+
+
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **190** fish for you.
+
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **210** fish for you.
+Embed 2:
+Title: You caught:
+Description: 5 <:fb_pufferfish:624819105417003028> Pufferfish
+8 <:fb_squid:628005803072290816> Squid
+2 <:fb_turtle:628429477793366037> Turtle
++2,901 XP
+Global boost by **sᴀᴍɪ ⚢🌈#0243**!
+
+
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **210** fish for you.
+
+
+Title: Embed.Empty
+Description: :white_check_mark: You sold your entire inventory for **$12,884,822**.
+You now have **$23,752,759**!
+
+
+---------------------------------
+Random Embeds Detected
+
+Title: Embed.Empty
+Description: :white_check_mark: You sold your entire inventory for **$5,402,504**.
+You now have **$29,159,903**!
+
+
+---------------------------------
+Random Embeds Detected
+
+Title: Embed.Empty
+Description: :white_check_mark: You sold your entire inventory for **$1,289,407**.
+You now have **$30,449,310**!
+
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+Title: Embed.Empty
+Description: :white_check_mark: You hired a worker for the next **33** minutes.
+The fish she catches will automatically be added to your inventory.
+
+
+Title: Embed.Empty
+Description: :x: You don't have enough <:fb_emeraldfish:625462358411837441>.
+
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+---------------------------------
+Random Embeds Detected
+
+Title: Embed.Empty
+Description: [Log Link](http://battle.owobot.com/battle-log/d7bc6f9d-9200-4ad8-9b75-e4193d96bb30)
+
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: :chart_with_upwards_trend: Reminder: Vote with **fvote** for rewards!
+Embed 2:
+Title: You caught:
+Description: 17 <:fb_pufferfish:624819105417003028> Pufferfish
+4 <:fb_squid:628005803072290816> Squid
++1,404 XP
+Global boost by **sᴀᴍɪ ⚢🌈#0243**!
+
+
+Title: Embed.Empty
+Description: :chart_with_upwards_trend: Reminder: Vote with **fvote** for rewards!
+
+
+---------------------------------
+2 Embeds Detected
+Embed 1:
+Title: Help support Virtual Fisher's development
+Description: Virtual Fisher is accepting donations to support its continued development, you will also receive perks such as the supporter rod and global boosters.
+Learn more with **fdonate**
+Link: https://virtualfisher.com/donate
+Embed 2:
+Title: You caught:
+Description: 15 <:fb_pufferfish:624819105417003028> Pufferfish
+9 <:fb_squid:628005803072290816> Squid
++2,434 XP
+Global boost by **Ladypixel#8114**!
+
+
+Title: Help support Virtual Fisher's development
+Description: Virtual Fisher is accepting donations to support its continued development, you will also receive perks such as the supporter rod and global boosters.
+Learn more with **fdonate**
+Link: https://virtualfisher.com/donate
+
+
+20:06:56 
+Title: Embed.Empty
+Description: You must wait **2.3** seconds before fishing again.
+Your cooldown: **2.5** seconds.
+
+
+---------------------------------
+20:13:07
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: :chart_with_upwards_trend: Reminder: Vote with **fvote** for rewards!
+Embed 2:
+Title: You caught:
+Description: 4 <:fb_pufferfish:624819105417003028> Pufferfish
+10 <:fb_squid:628005803072290816> Squid
+4 <:fb_turtle:628429477793366037> Turtle
++5,563 XP
+Global boost by **[ᶜʳʸ]  ⋆⋆ᴺⁱᶜᵒˡᵉ⋆⋆#7810**!
+
+
+20:13:07 
+Title: Embed.Empty
+Description: :chart_with_upwards_trend: Reminder: Vote with **fvote** for rewards!
+
+
+---------------------------------
+20:18:06
+2 Embeds Detected
+Embed 1:
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **237** fish for you.
+Embed 2:
+Title: You caught:
+Description: 6 <:fb_pufferfish:624819105417003028> Pufferfish
+7 <:fb_squid:628005803072290816> Squid
+4 <:fb_turtle:628429477793366037> Turtle
++4,798 XP
+Global boost by **[ᶜʳʸ]  ⋆⋆ᴺⁱᶜᵒˡᵉ⋆⋆#7810**!
+
+
+20:18:06 
+Title: Embed.Empty
+Description: Your worker has stopped working. She caught a total of **237** fish for you.
+
+
+---------------------------------
+20:32:40
+2 Embeds Detected
+Embed 1:
+Title: Help support Virtual Fisher's development
+Description: Virtual Fisher is accepting donations to support its continued development, you will also receive perks such as the supporter rod and global boosters.
+Learn more with **fdonate**
+Link: https://virtualfisher.com/donate
+Embed 2:
+Title: You caught:
+Description: 3 <:fb_pufferfish:624819105417003028> Pufferfish
+13 <:fb_squid:628005803072290816> Squid
++3,790 XP
+Global boost by **[ᶜʳʸ]  ⋆⋆ᴺⁱᶜᵒˡᵉ⋆⋆#7810**!
+
+
+20:32:40 
+Title: Help support Virtual Fisher's development
+Description: Virtual Fisher is accepting donations to support its continued development, you will also receive perks such as the supporter rod and global boosters.
+Learn more with **fdonate**
+Link: https://virtualfisher.com/donate
+
+
